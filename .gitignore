@@ -1,0 +1,9 @@
+# Ignore EVERYTHING
+*
+
+# Allow ONLY the main code file
+!financial_advisor_pro.py
+
+# Allow gitignore itself
+!.gitignore
+

@@ -1,7 +1,7 @@
 # Ignore everything by default
 *
 
-# Allow only essential files
+# Explicitly allow core project files
 !financial_advisor_pro.py
 !README.md
 !requirements.txt

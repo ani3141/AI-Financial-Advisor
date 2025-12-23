@@ -1,9 +1,8 @@
-# Ignore EVERYTHING
+# Ignore everything by default
 *
 
-# Allow ONLY the main code file
+# Allow only essential files
 !financial_advisor_pro.py
-
-# Allow gitignore itself
+!README.md
+!requirements.txt
 !.gitignore
-
